@@ -77,6 +77,11 @@ I enjoy learning by building real projects, from data and automation solutions t
   </picture>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="Hugging Face">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/open-webui/open-webui@main/static/favicon.png" height="48" alt="Open WebUI">&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lmstudio/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lmstudio/000000">
+    <img src="https://cdn.simpleicons.org/lmstudio/000000" height="48" alt="LM Studio">
+  </picture>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langchain" height="48" alt="LangChain">
 </p>
 
