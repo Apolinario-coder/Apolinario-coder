@@ -88,7 +88,11 @@ I enjoy experimenting with AI systems and integrating them into real application
 
 Some areas I'm currently exploring:
 
+<div align="center">
+
 `Local LLMs` • `RAG` • `Ollama` • `Open WebUI` • `AI Agents` • `APIs` • `Web Scraping` • `Automation`
+
+</div>
 
 ---
 
@@ -96,9 +100,9 @@ Some areas I'm currently exploring:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apolinario-coder&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Apolinario-coder&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinario-coder&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Apolinario-coder&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -106,27 +110,7 @@ Some areas I'm currently exploring:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Apolinario-coder&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apolinario-coder&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Apolinario-coder/Apolinario-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://streak-stats.demolab.com?user=Apolinario-coder&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
