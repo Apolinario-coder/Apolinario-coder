@@ -121,11 +121,23 @@ Some areas I'm currently exploring:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-apolinario-328309181/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Apolinario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    width="48"
+    title="LinkedIn"
+    alt="LinkedIn"
+  />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Apolinario-coder">
-  <img src="https://img.shields.io/badge/GitHub-Apolinario--coder-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    width="48"
+    title="GitHub"
+    alt="GitHub"
+  />
 </a>
 
 </div>
