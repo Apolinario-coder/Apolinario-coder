@@ -92,52 +92,6 @@ Some areas I'm currently exploring:
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎬 AniLog
-
-A social platform for anime inspired by the concept of a media diary, designed around discovering, tracking, rating and sharing anime.
-
-**Features include:**
-
-- Anime, episode and movie ratings
-- Reviews and community interactions
-- Following feed
-- Personal anime lists
-- Customizable profiles
-- Private messaging
-- Badge and role system
-- Administrative dashboard
-- Instagram Story sharing system
-
-**Focus:** Full Stack • Python • APIs • PostgreSQL • UX/UI
-
----
-
-### 🐦 X Media Scraper
-
-A Python tool for extracting and downloading media from X/Twitter.
-
-**Technologies:** `Python` • `Web Scraping` • `Automation`
-
-<a href="https://github.com/Apolinario-coder/x-media-scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apolinario-coder&repo=x-media-scraper&theme=github_dark&hide_border=true" />
-</a>
-
----
-
-### ⚖️ Saul Goodman Website
-
-A creative portfolio website inspired by Saul Goodman.
-
-**Technologies:** `JavaScript` • `HTML` • `CSS` • `Frontend`
-
-<a href="https://github.com/Apolinario-coder/saul-goodman-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apolinario-coder&repo=saul-goodman-website&theme=github_dark&hide_border=true" />
-</a>
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -182,8 +136,12 @@ A creative portfolio website inspired by Saul Goodman.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/lucas-apolinario-328309181/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Apolinario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/Apolinario-coder">
-  <img src="https://img.shields.io/badge/GitHub-Apolinario--coder-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Apolinario--coder-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
