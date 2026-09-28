@@ -131,33 +131,7 @@ Some areas I'm currently exploring:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucas-apolinario-328309181/">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="48"
-    height="48"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Apolinario-coder">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/github/FFFFFF"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.simpleicons.org/github/181717"
-    />
-    <img
-      src="https://cdn.simpleicons.org/github/181717"
-      width="48"
-      height="48"
-      alt="GitHub"
-    />
-  </picture>
-</a>
+<a href="https://www.linkedin.com/in/lucas-apolinario-328309181/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Apolinario-coder"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"></picture></a>
 
 </div>
 
