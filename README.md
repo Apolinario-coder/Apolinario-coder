@@ -1,15 +1,17 @@
 <div align="center">
 
-# 👨‍💻 Lucas Siqueira Apolinario
+<img src="./assets/personagem.png" height="90" alt="Lucas Character">
 
-### Data • Python • AI • Software Development
+<h1>Lucas Apolinário</h1>
+
+<h3>Data • Python • AI • Software Development</h3>
 
 <p>
   Building projects, exploring new technologies and turning ideas into real-world solutions.
 </p>
 
 <a href="https://github.com/Apolinario-coder">
-  <img src="https://komarev.com/ghpvc/?username=Apolinario-coder&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Apolinario-coder&style=for-the-badge" alt="Profile views">
 </a>
 
 </div>
@@ -18,17 +20,16 @@
 
 ## 🧠 About Me
 
-I'm a technology enthusiast focused on **Data, Python, Artificial Intelligence and Software Development**.
+I'm a technology enthusiast focused on **Data, Python, Java, Artificial Intelligence and Software Development**.
 
-I enjoy learning by building real projects — from data and automation solutions to web applications, APIs, local AI systems and tools that solve practical problems.
+I enjoy learning by building real projects, from data and automation solutions to web applications, APIs, local AI systems and tools that solve practical problems.
 
-- 📊 Interested in **Data Engineering & Data Analysis**
-- 🐍 Building projects and automations with **Python**
-- 🤖 Exploring **AI, LLMs, RAG and local AI models**
-- 🌐 Developing web applications and APIs
-- 🗄️ Working with relational databases and data pipelines
-- 🔬 Always experimenting with new technologies
-- 🚀 Turning ideas into functional projects
+- Interested in **Data Engineering & Data Analysis**
+- Building projects and automations with **Python**
+- Exploring **AI, LLMs, RAG and local AI models**
+- Developing web applications and APIs
+- Working with relational databases and data pipelines
+- Always experimenting with new technologies
 
 ---
 
@@ -57,8 +58,6 @@ I enjoy learning by building real projects — from data and automation solution
 
 ### Development & Tools
 
-### Development & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker">&nbsp;&nbsp;&nbsp;
@@ -68,19 +67,18 @@ I enjoy learning by building real projects — from data and automation solution
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js">
 </p>
 
----
+### AI & LLMs
 
-## 🤖 AI & Automation
-
-I enjoy experimenting with AI systems and integrating them into real applications.
-
-Some areas I'm currently exploring:
-
-<div align="center">
-
-`Local LLMs` • `RAG` • `Ollama` • `Open WebUI` • `AI Agents` • `APIs` • `Web Scraping` • `Automation`
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000">
+    <img src="https://cdn.simpleicons.org/ollama/000000" height="48" alt="Ollama">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="Hugging Face">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/open-webui/open-webui@main/static/favicon.png" height="48" alt="Open WebUI">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="48" alt="LangChain">
+</p>
 
 ---
 
