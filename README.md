@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/personagem.png" height="90" alt="Lucas Character">
+<img src="./assets/personagem.png" height="90" alt="Lucas Character" title="Lucas Apolinário">
 
 <h1>Lucas Apolinário</h1>
 
@@ -38,33 +38,67 @@ I enjoy learning by building real projects, from data and automation solutions t
 ### Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML" title="HTML">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS" title="CSS">
+  </picture>
 </p>
 
 ### Data & Databases
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48" alt="MySQL" title="MySQL">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" title="MariaDB">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite" title="SQLite">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" title="Pandas">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" title="NumPy">
+  </picture>
 </p>
 
 ### Development & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/phcode-dev/phoenix-desktop/main/phoenix%20app%20logo.svg" height="48" alt="Phoenix Code">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" title="PyCharm">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://raw.githubusercontent.com/phcode-dev/phoenix-desktop/main/phoenix%20app%20logo.svg" height="48" alt="Phoenix Code" title="Phoenix Code">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" title="Node.js">
+  </picture>
 </p>
 
 ### AI & LLMs
@@ -73,12 +107,20 @@ I enjoy learning by building real projects, from data and automation solutions t
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ollama-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000">
-    <img src="https://cdn.simpleicons.org/ollama/000000" height="48" alt="Ollama">
+    <img src="https://cdn.simpleicons.org/ollama/000000" height="48" alt="Ollama" title="Ollama">
   </picture>&nbsp;&nbsp;&nbsp;
-  <img src="./assets/huggingface-color.svg" height="48" alt="Hugging Face">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/open-webui/open-webui@main/static/favicon.png" height="48" alt="Open WebUI">&nbsp;&nbsp;&nbsp;
-  <img src="./assets/lm-studio-logo.svg" height="48" alt="LM Studio">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain" height="48" alt="LangChain">
+  <picture>
+    <img src="./assets/huggingface-color.svg" height="48" alt="Hugging Face" title="Hugging Face">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/open-webui/open-webui@main/static/favicon.png" height="48" alt="Open WebUI" title="Open WebUI">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="./assets/lm-studio-logo.svg" height="48" alt="LM Studio" title="LM Studio">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <img src="https://cdn.simpleicons.org/langchain" height="48" alt="LangChain" title="LangChain">
+  </picture>
 </p>
 
 ---
@@ -123,6 +165,7 @@ I enjoy learning by building real projects, from data and automation solutions t
         src="./assets/santos-dumont.png"
         width="150"
         alt="Santos Dumont"
+        title="Santos Dumont"
       />
     </td>
     <td align="left" width="500">
@@ -145,7 +188,7 @@ I enjoy learning by building real projects, from data and automation solutions t
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucas-apolinario-328309181/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Apolinario-coder"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"><img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"></picture></a>
+<a href="https://www.linkedin.com/in/lucas-apolinario-328309181/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn">
 
 </div>
 
