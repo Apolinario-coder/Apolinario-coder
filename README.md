@@ -1,6 +1,8 @@
 <div align="center">
 
+<picture>
 <img src="./assets/personagem.png" height="90" alt="Lucas Character" title="Lucas Apolinário">
+</picture>&nbsp;&nbsp;&nbsp;
 
 <h1>Lucas Apolinário</h1>
 
